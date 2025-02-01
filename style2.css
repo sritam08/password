@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+form{
+    padding-top: 70px;
+    padding-left: 20px;
+}
+input{
+    padding-left:70px; /*for form we use padding*/
+    font-size: 12px;
+    border-radius: 50px;
+}
